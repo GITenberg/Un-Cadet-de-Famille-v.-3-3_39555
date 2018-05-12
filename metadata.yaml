@@ -1,0 +1,51 @@
+_repo: Un-Cadet-de-Famille-v.-3-3_39555
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Perceval, Victor
+    alias: Fernand, Marie de
+    birthdate: 1835
+    deathdate: 1887
+    gutenberg_agent_id: '39441'
+    url: http://www.gutenberg.org/2009/agents/39441
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trelawny, Edward John
+    aliases:
+    - Trelawny, E. J. (Edward John)
+    - Trelawney, Edward John
+    birthdate: 1792
+    deathdate: 1881
+    gutenberg_agent_id: '39440'
+    url: http://www.gutenberg.org/2009/agents/39440
+    wikipedia: http://en.wikipedia.org/wiki/Edward_John_Trelawny
+  editor:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    - Dumas père, Alexandre
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: Translation of "The adventures of a younger son," part 3.
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2012-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39555'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- Translations into French'
+- !lcc 'PR'
+- !lcsh 'Adventure stories'
+title: Un Cadet de Famille, v. 3/3
+url: http://www.gutenberg.org/ebooks/39555
